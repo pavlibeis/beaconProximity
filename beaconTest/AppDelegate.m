@@ -39,7 +39,21 @@
 }
 
 - (void)applicationWillTerminate:(UIApplication *)application {
-    // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+    NSURL *url2 = [NSURL URLWithString:@"http://192.168.77.95/api/newdeveloper/lights/3/state"];
+    NSMutableURLRequest *request2 = [NSMutableURLRequest requestWithURL:url2];
+    [request2 setValue:@"application/x-www-form-urlencoded" forHTTPHeaderField:@"Content-Type"];
+    
+    [request2 setHTTPBody:[@"{\"on\":false}" dataUsingEncoding:NSUTF8StringEncoding]];
+    
+    [request2 setHTTPMethod:@"PUT"];
+    
+    
+    NSError *requestError2 = NULL;
+    NSURLResponse *response2 = NULL;
+    NSData *responseData2 = [NSURLConnection sendSynchronousRequest:request2 returningResponse:&response2 error:&requestError2];
+    
+    NSString *responseString2 = [[NSString alloc] initWithData:responseData2 encoding:NSUTF8StringEncoding];
+    NSLog(@"%@",responseString2);
 }
 
 @end

@@ -14,6 +14,50 @@
 		CA657D3319D46E1200BBFCD5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA657D3219D46E1200BBFCD5 /* Images.xcassets */; };
 		CA657D3619D46E1200BBFCD5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CA657D3419D46E1200BBFCD5 /* LaunchScreen.xib */; };
 		CA657D4219D46E1200BBFCD5 /* beaconTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CA657D4119D46E1200BBFCD5 /* beaconTestTests.m */; };
+		CA657D7B19D46E6300BBFCD5 /* libEstimoteIndoorSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657D5619D46E6300BBFCD5 /* libEstimoteIndoorSDK.a */; };
+		CA657D7C19D46E6300BBFCD5 /* 5a.mov in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5819D46E6300BBFCD5 /* 5a.mov */; };
+		CA657D7D19D46E6300BBFCD5 /* 5b.mov in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5919D46E6300BBFCD5 /* 5b.mov */; };
+		CA657D7E19D46E6300BBFCD5 /* 8a.mov in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5A19D46E6300BBFCD5 /* 8a.mov */; };
+		CA657D7F19D46E6300BBFCD5 /* 8b.mov in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5B19D46E6300BBFCD5 /* 8b.mov */; };
+		CA657D8019D46E6300BBFCD5 /* 8c.mov in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5C19D46E6300BBFCD5 /* 8c.mov */; };
+		CA657D8119D46E6300BBFCD5 /* 5a_first_frame@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5E19D46E6300BBFCD5 /* 5a_first_frame@2x.png */; };
+		CA657D8219D46E6300BBFCD5 /* 5b_first_frame@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D5F19D46E6300BBFCD5 /* 5b_first_frame@2x.png */; };
+		CA657D8319D46E6300BBFCD5 /* 8a_first_frame@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6019D46E6300BBFCD5 /* 8a_first_frame@2x.png */; };
+		CA657D8419D46E6300BBFCD5 /* 8b_first_frame@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6119D46E6300BBFCD5 /* 8b_first_frame@2x.png */; };
+		CA657D8519D46E6300BBFCD5 /* 8c_first_frame@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6219D46E6300BBFCD5 /* 8c_first_frame@2x.png */; };
+		CA657D8619D46E6300BBFCD5 /* beacon_grey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6319D46E6300BBFCD5 /* beacon_grey@2x.png */; };
+		CA657D8719D46E6300BBFCD5 /* beaconblueberry@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6419D46E6300BBFCD5 /* beaconblueberry@2x.png */; };
+		CA657D8819D46E6300BBFCD5 /* beaconBlueberrySmall.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6519D46E6300BBFCD5 /* beaconBlueberrySmall.png */; };
+		CA657D8919D46E6300BBFCD5 /* beaconBlueberrySmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6619D46E6300BBFCD5 /* beaconBlueberrySmall@2x.png */; };
+		CA657D8A19D46E6300BBFCD5 /* beacongrey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6719D46E6300BBFCD5 /* beacongrey@2x.png */; };
+		CA657D8B19D46E6300BBFCD5 /* beaconGreySmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6819D46E6300BBFCD5 /* beaconGreySmall@2x.png */; };
+		CA657D8C19D46E6300BBFCD5 /* beaconicy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6919D46E6300BBFCD5 /* beaconicy@2x.png */; };
+		CA657D8D19D46E6300BBFCD5 /* beaconIcySmall.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6A19D46E6300BBFCD5 /* beaconIcySmall.png */; };
+		CA657D8E19D46E6300BBFCD5 /* beaconIcySmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6B19D46E6300BBFCD5 /* beaconIcySmall@2x.png */; };
+		CA657D8F19D46E6300BBFCD5 /* beaconmint@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6C19D46E6300BBFCD5 /* beaconmint@2x.png */; };
+		CA657D9019D46E6300BBFCD5 /* beaconMintSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6D19D46E6300BBFCD5 /* beaconMintSmall.png */; };
+		CA657D9119D46E6300BBFCD5 /* beaconMintSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6E19D46E6300BBFCD5 /* beaconMintSmall@2x.png */; };
+		CA657D9219D46E6300BBFCD5 /* indoor_error@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D6F19D46E6300BBFCD5 /* indoor_error@2x.png */; };
+		CA657D9319D46E6300BBFCD5 /* instructions@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7019D46E6300BBFCD5 /* instructions@2x.png */; };
+		CA657D9419D46E6300BBFCD5 /* navigation_guy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7119D46E6300BBFCD5 /* navigation_guy@2x.png */; };
+		CA657D9519D46E6300BBFCD5 /* screen8_beacon_blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7219D46E6300BBFCD5 /* screen8_beacon_blue@2x.png */; };
+		CA657D9619D46E6300BBFCD5 /* screen8_beacon_gray@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7319D46E6300BBFCD5 /* screen8_beacon_gray@2x.png */; };
+		CA657D9719D46E6300BBFCD5 /* screen8_beacon_gray_trans@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7419D46E6300BBFCD5 /* screen8_beacon_gray_trans@2x.png */; };
+		CA657D9819D46E6300BBFCD5 /* screen8_beacon_green@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7519D46E6300BBFCD5 /* screen8_beacon_green@2x.png */; };
+		CA657D9919D46E6300BBFCD5 /* screen8_beacon_purple@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7619D46E6300BBFCD5 /* screen8_beacon_purple@2x.png */; };
+		CA657D9A19D46E6300BBFCD5 /* tick@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7719D46E6300BBFCD5 /* tick@2x.png */; };
+		CA657D9B19D46E6300BBFCD5 /* welcome@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7819D46E6300BBFCD5 /* welcome@2x.png */; };
+		CA657D9C19D46E6300BBFCD5 /* SixBeaconsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7919D46E6300BBFCD5 /* SixBeaconsView.xib */; };
+		CA657D9D19D46E6300BBFCD5 /* wall_bump.wav in Resources */ = {isa = PBXBuildFile; fileRef = CA657D7A19D46E6300BBFCD5 /* wall_bump.wav */; };
+		CA657DA919D46E8C00BBFCD5 /* libEstimoteSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DA719D46E8C00BBFCD5 /* libEstimoteSDK.a */; };
+		CA657DAA19D46E8C00BBFCD5 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = CA657DA819D46E8C00BBFCD5 /* README.md */; };
+		CA657DAC19D46EC300BBFCD5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DAB19D46EC300BBFCD5 /* CoreGraphics.framework */; };
+		CA657DAE19D46ECE00BBFCD5 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DAD19D46ECE00BBFCD5 /* SystemConfiguration.framework */; };
+		CA657DB019D46ED800BBFCD5 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DAF19D46ED800BBFCD5 /* CoreBluetooth.framework */; };
+		CA657DB219D46EDF00BBFCD5 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DB119D46EDF00BBFCD5 /* CoreLocation.framework */; };
+		CA657DB419D46EE800BBFCD5 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DB319D46EE800BBFCD5 /* CoreMotion.framework */; };
+		CA657DB619D46EEF00BBFCD5 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DB519D46EEF00BBFCD5 /* AudioToolbox.framework */; };
+		CA657DB819D46EF800BBFCD5 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA657DB719D46EF800BBFCD5 /* MessageUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +84,66 @@
 		CA657D3B19D46E1200BBFCD5 /* beaconTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = beaconTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA657D4019D46E1200BBFCD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA657D4119D46E1200BBFCD5 /* beaconTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = beaconTestTests.m; sourceTree = "<group>"; };
+		CA657D4D19D46E6300BBFCD5 /* ESTIndoorLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTIndoorLocationManager.h; sourceTree = "<group>"; };
+		CA657D4E19D46E6300BBFCD5 /* ESTIndoorLocationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTIndoorLocationView.h; sourceTree = "<group>"; };
+		CA657D4F19D46E6300BBFCD5 /* ESTLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTLocation.h; sourceTree = "<group>"; };
+		CA657D5019D46E6300BBFCD5 /* ESTLocationBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTLocationBuilder.h; sourceTree = "<group>"; };
+		CA657D5119D46E6300BBFCD5 /* ESTLocationLinearObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTLocationLinearObject.h; sourceTree = "<group>"; };
+		CA657D5219D46E6300BBFCD5 /* ESTOrientedLineSegment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTOrientedLineSegment.h; sourceTree = "<group>"; };
+		CA657D5319D46E6300BBFCD5 /* ESTOrientedPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTOrientedPoint.h; sourceTree = "<group>"; };
+		CA657D5419D46E6300BBFCD5 /* ESTPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTPoint.h; sourceTree = "<group>"; };
+		CA657D5519D46E6300BBFCD5 /* ESTPositionedBeacon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTPositionedBeacon.h; sourceTree = "<group>"; };
+		CA657D5619D46E6300BBFCD5 /* libEstimoteIndoorSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEstimoteIndoorSDK.a; sourceTree = "<group>"; };
+		CA657D5819D46E6300BBFCD5 /* 5a.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 5a.mov; sourceTree = "<group>"; };
+		CA657D5919D46E6300BBFCD5 /* 5b.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 5b.mov; sourceTree = "<group>"; };
+		CA657D5A19D46E6300BBFCD5 /* 8a.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 8a.mov; sourceTree = "<group>"; };
+		CA657D5B19D46E6300BBFCD5 /* 8b.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 8b.mov; sourceTree = "<group>"; };
+		CA657D5C19D46E6300BBFCD5 /* 8c.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 8c.mov; sourceTree = "<group>"; };
+		CA657D5E19D46E6300BBFCD5 /* 5a_first_frame@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5a_first_frame@2x.png"; sourceTree = "<group>"; };
+		CA657D5F19D46E6300BBFCD5 /* 5b_first_frame@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5b_first_frame@2x.png"; sourceTree = "<group>"; };
+		CA657D6019D46E6300BBFCD5 /* 8a_first_frame@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8a_first_frame@2x.png"; sourceTree = "<group>"; };
+		CA657D6119D46E6300BBFCD5 /* 8b_first_frame@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8b_first_frame@2x.png"; sourceTree = "<group>"; };
+		CA657D6219D46E6300BBFCD5 /* 8c_first_frame@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8c_first_frame@2x.png"; sourceTree = "<group>"; };
+		CA657D6319D46E6300BBFCD5 /* beacon_grey@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beacon_grey@2x.png"; sourceTree = "<group>"; };
+		CA657D6419D46E6300BBFCD5 /* beaconblueberry@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconblueberry@2x.png"; sourceTree = "<group>"; };
+		CA657D6519D46E6300BBFCD5 /* beaconBlueberrySmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beaconBlueberrySmall.png; sourceTree = "<group>"; };
+		CA657D6619D46E6300BBFCD5 /* beaconBlueberrySmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconBlueberrySmall@2x.png"; sourceTree = "<group>"; };
+		CA657D6719D46E6300BBFCD5 /* beacongrey@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beacongrey@2x.png"; sourceTree = "<group>"; };
+		CA657D6819D46E6300BBFCD5 /* beaconGreySmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconGreySmall@2x.png"; sourceTree = "<group>"; };
+		CA657D6919D46E6300BBFCD5 /* beaconicy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconicy@2x.png"; sourceTree = "<group>"; };
+		CA657D6A19D46E6300BBFCD5 /* beaconIcySmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beaconIcySmall.png; sourceTree = "<group>"; };
+		CA657D6B19D46E6300BBFCD5 /* beaconIcySmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconIcySmall@2x.png"; sourceTree = "<group>"; };
+		CA657D6C19D46E6300BBFCD5 /* beaconmint@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconmint@2x.png"; sourceTree = "<group>"; };
+		CA657D6D19D46E6300BBFCD5 /* beaconMintSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beaconMintSmall.png; sourceTree = "<group>"; };
+		CA657D6E19D46E6300BBFCD5 /* beaconMintSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beaconMintSmall@2x.png"; sourceTree = "<group>"; };
+		CA657D6F19D46E6300BBFCD5 /* indoor_error@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "indoor_error@2x.png"; sourceTree = "<group>"; };
+		CA657D7019D46E6300BBFCD5 /* instructions@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instructions@2x.png"; sourceTree = "<group>"; };
+		CA657D7119D46E6300BBFCD5 /* navigation_guy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigation_guy@2x.png"; sourceTree = "<group>"; };
+		CA657D7219D46E6300BBFCD5 /* screen8_beacon_blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen8_beacon_blue@2x.png"; sourceTree = "<group>"; };
+		CA657D7319D46E6300BBFCD5 /* screen8_beacon_gray@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen8_beacon_gray@2x.png"; sourceTree = "<group>"; };
+		CA657D7419D46E6300BBFCD5 /* screen8_beacon_gray_trans@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen8_beacon_gray_trans@2x.png"; sourceTree = "<group>"; };
+		CA657D7519D46E6300BBFCD5 /* screen8_beacon_green@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen8_beacon_green@2x.png"; sourceTree = "<group>"; };
+		CA657D7619D46E6300BBFCD5 /* screen8_beacon_purple@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen8_beacon_purple@2x.png"; sourceTree = "<group>"; };
+		CA657D7719D46E6300BBFCD5 /* tick@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tick@2x.png"; sourceTree = "<group>"; };
+		CA657D7819D46E6300BBFCD5 /* welcome@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "welcome@2x.png"; sourceTree = "<group>"; };
+		CA657D7919D46E6300BBFCD5 /* SixBeaconsView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SixBeaconsView.xib; sourceTree = "<group>"; };
+		CA657D7A19D46E6300BBFCD5 /* wall_bump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = wall_bump.wav; sourceTree = "<group>"; };
+		CA657DA019D46E8C00BBFCD5 /* ESTBeacon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeacon.h; sourceTree = "<group>"; };
+		CA657DA119D46E8C00BBFCD5 /* ESTBeaconDefinitions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconDefinitions.h; sourceTree = "<group>"; };
+		CA657DA219D46E8C00BBFCD5 /* ESTBeaconFirmwareInfoVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconFirmwareInfoVO.h; sourceTree = "<group>"; };
+		CA657DA319D46E8C00BBFCD5 /* ESTBeaconFirmwareVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconFirmwareVO.h; sourceTree = "<group>"; };
+		CA657DA419D46E8C00BBFCD5 /* ESTBeaconManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconManager.h; sourceTree = "<group>"; };
+		CA657DA519D46E8C00BBFCD5 /* ESTBeaconRegion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconRegion.h; sourceTree = "<group>"; };
+		CA657DA619D46E8C00BBFCD5 /* ESTBeaconVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconVO.h; sourceTree = "<group>"; };
+		CA657DA719D46E8C00BBFCD5 /* libEstimoteSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEstimoteSDK.a; sourceTree = "<group>"; };
+		CA657DA819D46E8C00BBFCD5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CA657DAB19D46EC300BBFCD5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CA657DAD19D46ECE00BBFCD5 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		CA657DAF19D46ED800BBFCD5 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		CA657DB119D46EDF00BBFCD5 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		CA657DB319D46EE800BBFCD5 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		CA657DB519D46EEF00BBFCD5 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		CA657DB719D46EF800BBFCD5 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +151,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA657DB819D46EF800BBFCD5 /* MessageUI.framework in Frameworks */,
+				CA657DB619D46EEF00BBFCD5 /* AudioToolbox.framework in Frameworks */,
+				CA657DB419D46EE800BBFCD5 /* CoreMotion.framework in Frameworks */,
+				CA657DB219D46EDF00BBFCD5 /* CoreLocation.framework in Frameworks */,
+				CA657DB019D46ED800BBFCD5 /* CoreBluetooth.framework in Frameworks */,
+				CA657DAE19D46ECE00BBFCD5 /* SystemConfiguration.framework in Frameworks */,
+				CA657DAC19D46EC300BBFCD5 /* CoreGraphics.framework in Frameworks */,
+				CA657DA919D46E8C00BBFCD5 /* libEstimoteSDK.a in Frameworks */,
+				CA657D7B19D46E6300BBFCD5 /* libEstimoteIndoorSDK.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +176,13 @@
 		CA657D1919D46E1200BBFCD5 = {
 			isa = PBXGroup;
 			children = (
+				CA657DB719D46EF800BBFCD5 /* MessageUI.framework */,
+				CA657DB519D46EEF00BBFCD5 /* AudioToolbox.framework */,
+				CA657DB319D46EE800BBFCD5 /* CoreMotion.framework */,
+				CA657DB119D46EDF00BBFCD5 /* CoreLocation.framework */,
+				CA657DAF19D46ED800BBFCD5 /* CoreBluetooth.framework */,
+				CA657DAD19D46ECE00BBFCD5 /* SystemConfiguration.framework */,
+				CA657DAB19D46EC300BBFCD5 /* CoreGraphics.framework */,
 				CA657D2419D46E1200BBFCD5 /* beaconTest */,
 				CA657D3E19D46E1200BBFCD5 /* beaconTestTests */,
 				CA657D2319D46E1200BBFCD5 /* Products */,
@@ -96,6 +216,8 @@
 		CA657D2519D46E1200BBFCD5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CA657D9E19D46E8C00BBFCD5 /* EstimoteSDK */,
+				CA657D4B19D46E6300BBFCD5 /* EstimoteIndoorLocationSDK */,
 				CA657D2619D46E1200BBFCD5 /* Info.plist */,
 				CA657D2719D46E1200BBFCD5 /* main.m */,
 			);
@@ -117,6 +239,105 @@
 				CA657D4019D46E1200BBFCD5 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CA657D4B19D46E6300BBFCD5 /* EstimoteIndoorLocationSDK */ = {
+			isa = PBXGroup;
+			children = (
+				CA657D4C19D46E6300BBFCD5 /* Headers */,
+				CA657D5619D46E6300BBFCD5 /* libEstimoteIndoorSDK.a */,
+				CA657D5719D46E6300BBFCD5 /* Resources */,
+			);
+			path = EstimoteIndoorLocationSDK;
+			sourceTree = "<group>";
+		};
+		CA657D4C19D46E6300BBFCD5 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				CA657D4D19D46E6300BBFCD5 /* ESTIndoorLocationManager.h */,
+				CA657D4E19D46E6300BBFCD5 /* ESTIndoorLocationView.h */,
+				CA657D4F19D46E6300BBFCD5 /* ESTLocation.h */,
+				CA657D5019D46E6300BBFCD5 /* ESTLocationBuilder.h */,
+				CA657D5119D46E6300BBFCD5 /* ESTLocationLinearObject.h */,
+				CA657D5219D46E6300BBFCD5 /* ESTOrientedLineSegment.h */,
+				CA657D5319D46E6300BBFCD5 /* ESTOrientedPoint.h */,
+				CA657D5419D46E6300BBFCD5 /* ESTPoint.h */,
+				CA657D5519D46E6300BBFCD5 /* ESTPositionedBeacon.h */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		CA657D5719D46E6300BBFCD5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CA657D5819D46E6300BBFCD5 /* 5a.mov */,
+				CA657D5919D46E6300BBFCD5 /* 5b.mov */,
+				CA657D5A19D46E6300BBFCD5 /* 8a.mov */,
+				CA657D5B19D46E6300BBFCD5 /* 8b.mov */,
+				CA657D5C19D46E6300BBFCD5 /* 8c.mov */,
+				CA657D5D19D46E6300BBFCD5 /* Images */,
+				CA657D7919D46E6300BBFCD5 /* SixBeaconsView.xib */,
+				CA657D7A19D46E6300BBFCD5 /* wall_bump.wav */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CA657D5D19D46E6300BBFCD5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CA657D5E19D46E6300BBFCD5 /* 5a_first_frame@2x.png */,
+				CA657D5F19D46E6300BBFCD5 /* 5b_first_frame@2x.png */,
+				CA657D6019D46E6300BBFCD5 /* 8a_first_frame@2x.png */,
+				CA657D6119D46E6300BBFCD5 /* 8b_first_frame@2x.png */,
+				CA657D6219D46E6300BBFCD5 /* 8c_first_frame@2x.png */,
+				CA657D6319D46E6300BBFCD5 /* beacon_grey@2x.png */,
+				CA657D6419D46E6300BBFCD5 /* beaconblueberry@2x.png */,
+				CA657D6519D46E6300BBFCD5 /* beaconBlueberrySmall.png */,
+				CA657D6619D46E6300BBFCD5 /* beaconBlueberrySmall@2x.png */,
+				CA657D6719D46E6300BBFCD5 /* beacongrey@2x.png */,
+				CA657D6819D46E6300BBFCD5 /* beaconGreySmall@2x.png */,
+				CA657D6919D46E6300BBFCD5 /* beaconicy@2x.png */,
+				CA657D6A19D46E6300BBFCD5 /* beaconIcySmall.png */,
+				CA657D6B19D46E6300BBFCD5 /* beaconIcySmall@2x.png */,
+				CA657D6C19D46E6300BBFCD5 /* beaconmint@2x.png */,
+				CA657D6D19D46E6300BBFCD5 /* beaconMintSmall.png */,
+				CA657D6E19D46E6300BBFCD5 /* beaconMintSmall@2x.png */,
+				CA657D6F19D46E6300BBFCD5 /* indoor_error@2x.png */,
+				CA657D7019D46E6300BBFCD5 /* instructions@2x.png */,
+				CA657D7119D46E6300BBFCD5 /* navigation_guy@2x.png */,
+				CA657D7219D46E6300BBFCD5 /* screen8_beacon_blue@2x.png */,
+				CA657D7319D46E6300BBFCD5 /* screen8_beacon_gray@2x.png */,
+				CA657D7419D46E6300BBFCD5 /* screen8_beacon_gray_trans@2x.png */,
+				CA657D7519D46E6300BBFCD5 /* screen8_beacon_green@2x.png */,
+				CA657D7619D46E6300BBFCD5 /* screen8_beacon_purple@2x.png */,
+				CA657D7719D46E6300BBFCD5 /* tick@2x.png */,
+				CA657D7819D46E6300BBFCD5 /* welcome@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		CA657D9E19D46E8C00BBFCD5 /* EstimoteSDK */ = {
+			isa = PBXGroup;
+			children = (
+				CA657D9F19D46E8C00BBFCD5 /* Headers */,
+				CA657DA719D46E8C00BBFCD5 /* libEstimoteSDK.a */,
+				CA657DA819D46E8C00BBFCD5 /* README.md */,
+			);
+			path = EstimoteSDK;
+			sourceTree = "<group>";
+		};
+		CA657D9F19D46E8C00BBFCD5 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				CA657DA019D46E8C00BBFCD5 /* ESTBeacon.h */,
+				CA657DA119D46E8C00BBFCD5 /* ESTBeaconDefinitions.h */,
+				CA657DA219D46E8C00BBFCD5 /* ESTBeaconFirmwareInfoVO.h */,
+				CA657DA319D46E8C00BBFCD5 /* ESTBeaconFirmwareVO.h */,
+				CA657DA419D46E8C00BBFCD5 /* ESTBeaconManager.h */,
+				CA657DA519D46E8C00BBFCD5 /* ESTBeaconRegion.h */,
+				CA657DA619D46E8C00BBFCD5 /* ESTBeaconVO.h */,
+			);
+			path = Headers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +420,43 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA657D7F19D46E6300BBFCD5 /* 8b.mov in Resources */,
+				CA657D8A19D46E6300BBFCD5 /* beacongrey@2x.png in Resources */,
+				CA657D8E19D46E6300BBFCD5 /* beaconIcySmall@2x.png in Resources */,
+				CA657D8419D46E6300BBFCD5 /* 8b_first_frame@2x.png in Resources */,
+				CA657D8019D46E6300BBFCD5 /* 8c.mov in Resources */,
+				CA657D8319D46E6300BBFCD5 /* 8a_first_frame@2x.png in Resources */,
+				CA657D9519D46E6300BBFCD5 /* screen8_beacon_blue@2x.png in Resources */,
+				CA657D9A19D46E6300BBFCD5 /* tick@2x.png in Resources */,
+				CA657D9819D46E6300BBFCD5 /* screen8_beacon_green@2x.png in Resources */,
+				CA657D7D19D46E6300BBFCD5 /* 5b.mov in Resources */,
+				CA657D8B19D46E6300BBFCD5 /* beaconGreySmall@2x.png in Resources */,
+				CA657D8119D46E6300BBFCD5 /* 5a_first_frame@2x.png in Resources */,
+				CA657D9619D46E6300BBFCD5 /* screen8_beacon_gray@2x.png in Resources */,
+				CA657D8F19D46E6300BBFCD5 /* beaconmint@2x.png in Resources */,
+				CA657D9D19D46E6300BBFCD5 /* wall_bump.wav in Resources */,
+				CA657D8219D46E6300BBFCD5 /* 5b_first_frame@2x.png in Resources */,
+				CA657D7C19D46E6300BBFCD5 /* 5a.mov in Resources */,
+				CA657D8819D46E6300BBFCD5 /* beaconBlueberrySmall.png in Resources */,
+				CA657D8719D46E6300BBFCD5 /* beaconblueberry@2x.png in Resources */,
+				CA657D9419D46E6300BBFCD5 /* navigation_guy@2x.png in Resources */,
+				CA657D9219D46E6300BBFCD5 /* indoor_error@2x.png in Resources */,
 				CA657D3119D46E1200BBFCD5 /* Main.storyboard in Resources */,
+				CA657D9919D46E6300BBFCD5 /* screen8_beacon_purple@2x.png in Resources */,
+				CA657D9019D46E6300BBFCD5 /* beaconMintSmall.png in Resources */,
+				CA657D8519D46E6300BBFCD5 /* 8c_first_frame@2x.png in Resources */,
+				CA657D7E19D46E6300BBFCD5 /* 8a.mov in Resources */,
+				CA657D8D19D46E6300BBFCD5 /* beaconIcySmall.png in Resources */,
+				CA657D9B19D46E6300BBFCD5 /* welcome@2x.png in Resources */,
 				CA657D3619D46E1200BBFCD5 /* LaunchScreen.xib in Resources */,
 				CA657D3319D46E1200BBFCD5 /* Images.xcassets in Resources */,
+				CA657D9C19D46E6300BBFCD5 /* SixBeaconsView.xib in Resources */,
+				CA657D9119D46E6300BBFCD5 /* beaconMintSmall@2x.png in Resources */,
+				CA657D8919D46E6300BBFCD5 /* beaconBlueberrySmall@2x.png in Resources */,
+				CA657D9319D46E6300BBFCD5 /* instructions@2x.png in Resources */,
+				CA657D8C19D46E6300BBFCD5 /* beaconicy@2x.png in Resources */,
+				CA657D8619D46E6300BBFCD5 /* beacon_grey@2x.png in Resources */,
+				CA657D9719D46E6300BBFCD5 /* screen8_beacon_gray_trans@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +476,7 @@
 			files = (
 				CA657D2E19D46E1200BBFCD5 /* ViewController.m in Sources */,
 				CA657D2B19D46E1200BBFCD5 /* AppDelegate.m in Sources */,
+				CA657DAA19D46E8C00BBFCD5 /* README.md in Sources */,
 				CA657D2819D46E1200BBFCD5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -347,6 +603,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = beaconTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/beaconTest/EstimoteIndoorLocationSDK",
+					"$(PROJECT_DIR)/beaconTest/EstimoteSDK",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -357,6 +618,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = beaconTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/beaconTest/EstimoteIndoorLocationSDK",
+					"$(PROJECT_DIR)/beaconTest/EstimoteSDK",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -414,6 +680,7 @@
 				CA657D4719D46E1200BBFCD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA657D4819D46E1200BBFCD5 /* Build configuration list for PBXNativeTarget "beaconTestTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +689,7 @@
 				CA657D4A19D46E1200BBFCD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
